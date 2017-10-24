@@ -1,0 +1,9 @@
+Codes written for practical sessions in college.
+
+Subjects:
+FOP - Fundamentals of Programming
+DSA - Data Structure and Algorithms
+PNM - Probability and Numerical Methods
+DAA - Design and Analysis of Algorithms
+IS - Informaion Security
+OS - Operating System
