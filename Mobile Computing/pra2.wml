@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<wml>
+	<card id="one" title="First Card">
+		<p>	
+			This is the first card in the deck
+		</p>
+	</card>
+</wml>

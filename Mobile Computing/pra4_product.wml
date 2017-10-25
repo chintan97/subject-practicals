@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<wml>
+	<card id="one" title="First Card">
+		<p>This is the Product card.</p>
+		<a href=pra4_main.wml>Back</a>
+	</card>
+</wml>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<wml>
+  <card id="card1" title="Selection List">
+    <p>
+      <select name="selection_list">
+        <optgroup title="Honda">
+          <option value="CD100">CD 100</option>
+          <option value="CDDawn">CD Dawn</option>
+        </optgroup>
+        <optgroup title="Suzuki">
+          <option value="Max100">Max100</option>
+          <option value="Samurai">Samurai</option>
+        </optgroup>
+      </select>
+    </p>
+  </card>
+</wml>

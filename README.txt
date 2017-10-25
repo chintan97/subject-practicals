@@ -7,3 +7,7 @@ PNM - Probability and Numerical Methods
 DAA - Design and Analysis of Algorithms
 IS - Informaion Security
 OS - Operating System
+
+EDIT 1:
+New subject added...
+MC - Mobile Computing

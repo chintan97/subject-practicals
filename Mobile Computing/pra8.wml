@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<wml>
+	<card title="WML Tables">
+		<p>
+			<table columns="3" border="1">
+				<tr>
+					<td>Honda</td>
+					<td>Suzuki</td>
+					<td>Yamaha</td>
+				</tr>
+				<tr>
+					<td>Mitsubishi</td>
+					<td>Ford</td>
+					<td>Maruti</td>
+				</tr>
+			</table>
+		</p>
+	</card>
+</wml>

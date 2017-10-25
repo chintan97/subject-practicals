@@ -1,0 +1,22 @@
+extern function operation(result,val1,operate,val2) {
+ var ans=0;
+ if (operate=='ADD')
+ {
+ ans = val1 + val2;
+ }
+ else if (operate=='SUB')
+ {
+ ans=val1 – val2;
+ }
+ else if (operate=='MULT')
+ {
+ ans=val1 * val2;
+ }
+ else
+ {
+ ans=val1 / val2;
+ }
+ 
+ WMLBrowser.setVar(result,ans);
+ WMLBrowser.refresh();
+}

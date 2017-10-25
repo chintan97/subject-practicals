@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<wml>
+	<card id="index" title="Index card">
+		<a href=pra4_sales.wml>Sales</a><br>
+		<a href=pra4_product.wml>Product</a><br>
+		<a href=pra4_service.wml>Services</a>
+	</card>
+</wml>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<wml>
+ <card id="card1" title="Calculator">
+ <p>Value1: <br/><input format="N*M" name="amount1" title="First Amount:"/>
+ Operator : <br/><select name="operator" value="ADD" title="Operation:">
+    <option value="ADD">Addition</option>
+  <option value="SUB">Subtraction</option>
+  <option value="MULT">Multiplication</option>
+  <option value="DIV">Division</option>
+ </select>
+ Value2: <br/><input format="N*M" name="amount2" title="Second Amount:"/>
+ Result : = <b>$(answer)</b>
+ <do type="accept" label="Result">
+ <go href="pra14.wmls#operation('answer',$(amount1),'$(operator)',$(amount2))"/>
+ </do>
+ </p>
+ </card>
+</wml>

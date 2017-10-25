@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<wml>
+  <card id="card1" title="Selection List">
+    <p>
+      This is a selection list of colors:<br/>
+      <select name="selection_list">
+        <option value="Red">Red</option>
+        <option value="Green">Green</option>
+        <option value="Yellow">Yellow</option>
+        <option value="Blue">Blue</option>
+      </select>
+    </p>
+  </card>
+</wml>

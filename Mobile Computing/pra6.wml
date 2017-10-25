@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<wml>
+	<cardtitle="Text Formatting">
+		<p>
+			<b>bold text</b><br/>
+			<big>big text</big><br/>
+			<em>emphasized text</em><br/>
+			<i>italic text</i><br/>
+			<small>small text</small><br/>
+			<strong>strong text</strong><br/>
+			<u>underlined text</u>
+		</p>
+	</card>
+</wml>

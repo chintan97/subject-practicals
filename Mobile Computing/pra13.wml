@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<wml>
+	<card id="splash" title="splash">
+		<onevent type="ontimer">
+		<go href="#welcome"/>
+	  </onevent>
+	  <timer value="50"/>
+	</card>
+	<card id="welcome" title="Welcome">
+		<p>
+			<img src="Lighthouse.jpg" alt="Smile" height="300" width="300" /><br/>
+		</p>
+	</card>
+</wml>

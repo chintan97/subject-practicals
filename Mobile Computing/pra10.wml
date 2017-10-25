@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<wml>
+	<cardtitle="Text Formatting">
+		<p>@</p>
+		<p>#</p>
+		<p>!</p>
+		<p>$</p>
+		<p>%</p>
+		<p>&</p>
+	</card>
+</wml>

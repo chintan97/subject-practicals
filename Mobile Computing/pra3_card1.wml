@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<wml>
+	<card id="one" title="First Card">
+		<p>This is the first card in the deck</p>
+		<a href="pra3_card2.wml">Card 2</a>
+	</card>
+</wml>

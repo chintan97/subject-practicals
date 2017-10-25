@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<wml>
+  <template>
+    <do name="menu_1" type="accept" label="Table of Contents">
+      <go href="#tutorial_tc"/>
+    </do>
+    <do name="menu_2" type="accept" label="Chapter 1">
+      <go href="#tutorial_ch1"/>
+    </do>
+    <do name="menu_3" type="accept" label="Chapter 2">
+      <go href="#tutorial_ch2"/>
+    </do>
+    <do name="menu_4" type="accept" label="Chapter 3">
+      <go href="#tutorial_ch3"/>
+    </do>
+    <do name="menu_5" type="accept" label="Chapter 4">
+      <go href="#tutorial_ch4"/>
+    </do>
+</template>
+
+  <card id="tutorial_tc" title="WML Tutorial">
+    <p>
+      Hello, welcome to our WML tutorial.<br/><br/>
+      Table of Contents:<br/>
+
+      <anchor>
+        <go href="#tutorial_ch1"/>
+        Chapter 1: WML Introduction
+      </anchor><br/>
+
+      <anchor>
+        <go href="#tutorial_ch2"/>
+        Chapter 2: WML Deck and Card
+      </anchor><br/>
+
+      <anchor>
+        <go href="#tutorial_ch3"/>
+        Chapter 3: WML Document Structure
+      </anchor><br/>
+
+      <anchor>
+        <go href="#tutorial_ch4"/>
+        Chapter 4: WML Generic Metadata
+      </anchor><br/>
+    </p>
+  </card>
+
+  <card id="tutorial_ch1" title="WML Tutorial Ch1">
+    <p>
+      <em>Chapter 1: WML Introduction</em><br/><br/>
+    </p>
+  </card>
+
+  <card id="tutorial_ch2" title="WML Tutorial Ch2">
+    <p>
+      <em>Chapter 2: WML Deck and Card</em><br/><br/>
+    </p>
+  </card>
+
+  <card id="tutorial_ch3" title="WML Tutorial Ch3">
+    <p>
+      <em>Chapter 3: WML Document Structure</em><br/><br/>
+    </p>
+  </card>
+
+  <card id="tutorial_ch4" title="WML Tutorial Ch4">
+    <p>
+      <em>Chapter 4: WML Generic Metadata</em><br/><br/>
+    </p>
+  </card>
+</wml>
