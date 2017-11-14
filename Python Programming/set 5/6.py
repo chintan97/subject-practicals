@@ -1,0 +1,13 @@
+A = (0,1,2,3,4,5,3,2,1)
+print (A.index(2))
+print (A.index(2,3))
+print (A.count(3))
+print (len(A))
+print (max(A))
+print (min(A))
+print (sum(A))
+print (4 in A)
+print (A[3:6])
+B = ('Hi',)*3
+print (B)
+print (A+B)

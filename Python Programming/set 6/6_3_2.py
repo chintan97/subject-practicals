@@ -1,0 +1,1 @@
+print( list( filter( lambda x: True if x>0 else False, map(int, input("Enter a list of integers:").split() ) ) ) )

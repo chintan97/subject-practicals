@@ -1,0 +1,1 @@
+print( list( filter( lambda x: x.isalpha() , input("Enter a list of alphabets or numbers:").split() ) ) )

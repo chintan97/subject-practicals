@@ -11,3 +11,10 @@ OS - Operating System
 EDIT 1:
 New subject added...
 MC - Mobile Computing
+
+EDIT 2:
+New subject added...
+OOPJ - Object Oriented Programming with Java
+PP - Python Programming
+MADA - Mobile Application Development with Android
+       (https://github.com/chintan97/Android-Apps)

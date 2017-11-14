@@ -1,0 +1,7 @@
+x, y = map(int, input("Enter 2 numbers:").split())
+print("For x =",x,"and y =",y)
+print("x + y =",x + y)
+print("x - y =",x - y)
+print("x * y =",x * y)
+print("x / y =",x / y)
+print("x ** y =",x ** y)

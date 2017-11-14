@@ -1,0 +1,1 @@
+print( [x for x in input("Enter a list of integers:").split() if x.isalpha()] )

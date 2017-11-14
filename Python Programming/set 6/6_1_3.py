@@ -1,0 +1,1 @@
+print( [x**3 for x in [int(a) for a in input("Enter a list of integers:").split()] ] )

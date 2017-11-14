@@ -1,0 +1,8 @@
+A = ()
+print (A)
+B = (1,)
+print (B)
+C = (1,2,3)
+print (C)
+D = (4,'Chintan')
+print (D)

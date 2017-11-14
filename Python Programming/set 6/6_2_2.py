@@ -1,0 +1,1 @@
+print( list( map( lambda x: (x-32)/1.8 , map(int, input("Enter a list of integers:").split() ) ) ) )

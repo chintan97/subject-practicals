@@ -1,0 +1,1 @@
+print( [int(a) for a in input("Enter a list of integers:").split() if int(a)>0] )
