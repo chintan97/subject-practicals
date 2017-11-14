@@ -16,5 +16,5 @@ EDIT 2:
 New subject added...
 OOPJ - Object Oriented Programming with Java
 PP - Python Programming
-MADA - Mobile Application Development with Android
+MADA - Mobile Application Development with Android
        (https://github.com/chintan97/Android-Apps)
